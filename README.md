@@ -1,1 +1,1 @@
-# task_infinita
+# task_infinita  Деев Максим
